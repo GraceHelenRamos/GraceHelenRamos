@@ -1,4 +1,4 @@
-### Hey gays!
+### Hy!
 I'm Grace Helen,👋
 
 - 🔭 I’m currently working on Front-end
