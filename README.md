@@ -1,3 +1,8 @@
+<div>
+<img align="right" alt="Grace-pic" height="150px"  width="150px"style="border-radius:50px;" 
+     src="https://user-images.githubusercontent.com/83483381/159090379-6c1c8295-95e8-4c1d-80a8-b15658591e96.png">
+</div>
+
 ### Hy!
 I'm Grace Helen,👋
 
@@ -20,11 +25,6 @@ I'm very excited about my evolution in the world of DEV Front.
   <img align="center" alt="Grace-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Grace-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
-<div>
-<img align="right" alt="Grace-pic" height="150px"  width="150px"style="border-radius:50px;" 
-     src="https://user-images.githubusercontent.com/83483381/159090379-6c1c8295-95e8-4c1d-80a8-b15658591e96.png">
-</div>
   
   ##
  
@@ -33,5 +33,8 @@ I'm very excited about my evolution in the world of DEV Front.
  <a href="https://discord.gg/FwN8m9HF" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:helen.grace2704@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/grace-helen-616090157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
+
+
+
+
