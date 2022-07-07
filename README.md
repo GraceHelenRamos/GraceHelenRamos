@@ -3,7 +3,7 @@
      src="https://user-images.githubusercontent.com/83483381/159090379-6c1c8295-95e8-4c1d-80a8-b15658591e96.png">
 </div>
 
-### Hy!
+### Hello!
 I'm Grace Helen,👋
 
 - 🔭 I’m currently working on Front-end
