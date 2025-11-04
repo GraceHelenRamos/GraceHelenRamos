@@ -9,9 +9,7 @@ I'm Grace Helen,👋
 - 🔭 I’m currently working on Front-end
 - 🌱 I’m currently learning SAP ABAP
 - 😄 Pronouns: ela/dela
-- ⚡ Fun fact: I'm new to the world of Technology, but I'm very thirsty for knowledge.
-I am a very lively, fun person, a very communicative person, I love dealing with people, I love understanding how things work.
-I'm very excited about my evolution in the world of DEV Front.
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GraceHelenRamos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
