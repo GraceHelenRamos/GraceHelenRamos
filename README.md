@@ -7,7 +7,7 @@
 I'm Grace Helen,👋
 
 - 🔭 I’m currently working on Front-end
-- 🌱 I’m currently learning JavaScrit, Html,CSS , Vue and  Cypress
+- 🌱 I’m currently learning SAP ABAP
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: I'm new to the world of Technology, but I'm very thirsty for knowledge.
 I am a very lively, fun person, a very communicative person, I love dealing with people, I love understanding how things work.
