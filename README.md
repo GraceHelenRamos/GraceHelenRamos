@@ -23,7 +23,7 @@ I'm very excited about my evolution in the world of DEV Front.
 <img align="center" alt="Grace-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" width="40" height="30" alt="Grac-SAP" src="https://github.com/user-attachments/assets/beefae58-0523-4533-8520-d83687e7cfb1" />
 </div>
-##
+
 <div> 
   <a href="https://instagram.com/gracehelers" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/FwN8m9HF" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
